@@ -1,2 +1,2 @@
 # Mixed-Messages
-My first project through Codecademy.
+My first project I'm doing through Codecademy. 
