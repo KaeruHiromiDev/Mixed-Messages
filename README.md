@@ -1,5 +1,5 @@
 # Mixed-Messages
-My first project I'm doing through Codecademy. 
+My first project I'm doing through Codecademy. This is a really basic coding project that I have some ideas to improve if I come back to it. HTML page that displays the sentence on button press. Ability to enter your own words into the sentence. Option to choose what type of sentence you are making.
 
 ## Overview
 
